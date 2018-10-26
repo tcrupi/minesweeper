@@ -1,5 +1,5 @@
 # minesweeper
-Made in Java using Processing.
+Written in Java using Processing.
 
 #########################
 # Setup and How to Play #
